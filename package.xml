@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>SolarBotDashboards/XIvUQkwttmJPFDoVaOpkLsFNuqfBff</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>Executive_Team</members>
+        <members>Report_and_Dashboard_Administrators</members>
+        <members>Research_and_Development_Team</members>
+        <members>Sales_Leadership_Team</members>
+        <members>Sales_Team</members>
+        <members>Support_Team</members>
+        <name>Group</name>
+    </types>
+    <types>
+        <members>Report_Recycle_Bin/Lincolns_SolarBot_Research_Hi</members>
+        <members>SolarBotExecutiveReports/SolarBot_Loyalty_Revenue_ZR1</members>
+        <members>SolarBotRDReports/Potential_SolarBot_Product_Names_Hn</members>
+        <members>SolarBotRDReports/Temperature_to_kWh_Research_zgl</members>
+        <members>SolarBotSalesReports/Accounts_Without_SolarBot_Opportunities_tBu</members>
+        <members>SolarBotSalesReports/Erins_SolarBot_Opportunity_Matrix_Cj</members>
+        <members>SolarBotSalesReports/Lances_SolarBot_Lead_Report_LW</members>
+        <members>SolarBotSalesReports/SolarBot_HighCase_Candidates_lxL</members>
+        <members>SolarBotSalesReports/SolarBot_Warranty_Call_Sheet_KGZ</members>
+        <members>SolarBotSupportReports/Top_Case_Drivers_by_SolarBot_Ownership_Sz0</members>
+        <members>StatusReports/SolarBot_Status_Averages_oxp</members>
+        <members>unfiled$public/flow_screen_prebuilt_report</members>
+        <name>Report</name>
+    </types>
+    <version>57.0</version>
+</Package>
